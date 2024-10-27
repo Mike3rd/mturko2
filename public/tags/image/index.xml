@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image on Mike Turko</title>
+    <link>http://localhost:1313/tags/image/</link>
+    <description>Recent content in Image on Mike Turko</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>youremail@domain.com (Some Person2)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person2)</webMaster>
+    <lastBuildDate>Sat, 19 Oct 2024 15:42:11 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/image/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wednesdaytag</title>
+      <link>http://localhost:1313/post/wednesdaytag/</link>
+      <pubDate>Wed, 29 May 2024 15:47:26 -0400</pubDate><author>youremail@domain.com (Some Person2)</author>
+      <guid>http://localhost:1313/post/wednesdaytag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>October</title>
+      <link>http://localhost:1313/post/october/</link>
+      <pubDate>Sat, 19 Oct 2024 15:42:11 -0400</pubDate><author>youremail@domain.com (Some Person2)</author>
+      <guid>http://localhost:1313/post/october/</guid>
+      <description>test Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal&#xA;tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.&#xA;One Ten Three Option Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default.</description>
+    </item>
+    <item>
+      <title>Thursday</title>
+      <link>http://localhost:1313/post/thursday/</link>
+      <pubDate>Thu, 18 Jul 2024 15:41:48 -0400</pubDate><author>youremail@domain.com (Some Person2)</author>
+      <guid>http://localhost:1313/post/thursday/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monday</title>
+      <link>http://localhost:1313/post/monday/</link>
+      <pubDate>Wed, 12 Jun 2024 23:06:19 -0400</pubDate><author>youremail@domain.com (Some Person2)</author>
+      <guid>http://localhost:1313/post/monday/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    <item>
+      <title>Testimage</title>
+      <link>http://localhost:1313/post/testimage/</link>
+      <pubDate>Tue, 28 May 2024 16:00:15 -0400</pubDate><author>youremail@domain.com (Some Person2)</author>
+      <guid>http://localhost:1313/post/testimage/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
